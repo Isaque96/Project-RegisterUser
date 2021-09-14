@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arturito El Pequenito",
+      "email": "arturo@gmail.com"
+    }, {
+      "id": 2,
+      "name": "Marie The Marie",
+      "email": "maria@gmail.com"
+    }, {
+      "id": 3,
+      "name": "Yo Lo Tengo",
+      "email": "rbd@gmail.com"
+    }
+  ]
+}
